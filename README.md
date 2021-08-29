@@ -1,16 +1,17 @@
-# store
 
-B&O Store
 
-## Getting Started
+# 
 
-This project is a starting point for a Flutter application.
+## B&O Store
 
-A few resources to get you started if this is your first Flutter project:
+B 站地址：[https://www.bilibili.com/video/BV14y4y1G7NS]()
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+【4k 超清】Flutter 20 分钟带你开发 B&O 零售商店
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---------------------------------------------------------------------------
+
+Flutter 现在逐步趋向成熟，做起应用来，效率奇高，非常值得尝试
+
+关注我，收获更多免费教程。
+
+# 
